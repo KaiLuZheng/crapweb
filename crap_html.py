@@ -7,10 +7,11 @@ from bs4 import BeautifulSoup as bs
 
 
 url = 'https://meiriyiwen.com/'
+url = ''
 
 filetype = '.html'
 
-filename = 'temp'
+filename = 'jianzhiseng'
 
 _user_agent = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/66.0.3359.181 Chrome/66.0.3359.181 Safari/537.36'
 
